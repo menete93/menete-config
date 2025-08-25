@@ -2,7 +2,7 @@ build:
   version: "33.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related DOCKER-CONTAINERS."
+  message: "Welcome to EazyBank accounts related DOCKER-CON....TAINERS."
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
